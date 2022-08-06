@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/kazningm.github.io/realiste-test/static/js/main.1023aec9.js",
-    "index.html": "/kazningm.github.io/realiste-test/index.html",
-    "main.1023aec9.js.map": "/kazningm.github.io/realiste-test/static/js/main.1023aec9.js.map"
+    "main.js": "/realisteTest/static/js/main.1023aec9.js",
+    "index.html": "/realisteTest/index.html",
+    "main.1023aec9.js.map": "/realisteTest/static/js/main.1023aec9.js.map"
   },
   "entrypoints": [
     "static/js/main.1023aec9.js"
